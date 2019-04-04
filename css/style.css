@@ -559,8 +559,8 @@ a.reqe-button {
 
 /* banner */
 .main-mob-tempvt {
-    background-color: #363738;
-   /* background: url(../images/b3.jpg) no-repeat bottom;*/
+    background-color:red;
+   background-image: url(../images/cv.jpeg);
    background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
