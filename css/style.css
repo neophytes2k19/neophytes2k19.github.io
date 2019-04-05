@@ -2076,7 +2076,7 @@ button.btn.btn-mob-temlayouts:hover {
 
 @media(max-width: 440px) {
     .main-mob-tempvt {
-        min-height: 530px;
+        min-height: 800px;
     }
 
     .icon-effects-mob-tem-3 img {
